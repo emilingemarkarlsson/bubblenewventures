@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-mate",
   "version": "2.5.1",
-  "description": "Gatsby v2 starter to create a top notch portfolio!",
+  "description": "Bubbel Ventures",
   "main": "index.js",
   "scripts": {
     "build": "gatsby clean && gatsby build",
@@ -15,18 +15,18 @@
     "url": "git+https://github.com/EmaSuriano/gatsby-starter-mate.git"
   },
   "keywords": [
-    "gatsby",
-    "starter",
-    "contentful",
-    "PWA",
-    "portfolio"
+    "venture",
+    "VC",
+    "Jönköping",
+    "startup",
+    "startup jönköping"
   ],
-  "author": "Ema Suriano",
+  "author": "Emil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EmaSuriano/gatsby-starter-mate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/EmaSuriano/gatsby-starter-mate#readme",
+  "homepage": "",
   "dependencies": {
     "contentful": "^7.0.3",
     "dotenv": "^7.0.0",
